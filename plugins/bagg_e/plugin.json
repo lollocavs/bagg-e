@@ -1,0 +1,10 @@
+{
+    "name": "Bagg-E",
+    "version": "0.0.2",
+    "description": "The Travel Assistant for Easy Planning with AI",
+    "author_name": "Lorenzo Cavalieri",
+    "author_url": "https://github.com/lollocavs",
+    "plugin_url": "https://github.com/lollocavs/bagg-e",
+    "tags": "cat, travel, tools, planner",
+    "thumb": "https://raw.githubusercontent.com/lollocavs/bagg-e/main/plugins/bagg_e/logo.png"
+}

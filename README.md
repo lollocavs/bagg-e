@@ -1,5 +1,9 @@
 # 🧳 Bagg‑E — Travel Assistant AI
 
+<p align="center">
+  <img src="static/logo.png" alt="Bagg‑E logo" width="200"/>
+</p>
+
 **Bagg‑E** è un assistente virtuale intelligente progettato per aiutarti a pianificare viaggi in modo semplice, completo e sicuro. Basato sulla piattaforma open source [Cheshire Cat](https://github.com/cheshire-cat-ai/cheshire-cat), Bagg‑E è in grado di comprendere istruzioni in linguaggio naturale, recuperare informazioni burocratiche e sanitarie da link o fonti fornite dall'utente e suggerire soluzioni di viaggio e alloggio tramite potenziali integrazioni con i principali portali turistici.
 
 > _Il tuo compagno digitale per ogni viaggio._ ✈️
